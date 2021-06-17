@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<h1 style="color:OrangeRed;"> Eten </h1>
+<h3 style="color:OrangeRed;"> Je hebt gezond en ongezond eten </h3>
+<br>
+<h4 style="color:MediumSeaGreen;"> Voorbeelden van gezond eten:</h4>
+<ul style="background-color:MediumSeaGreen;">
+	<li>Groente</li>
+    <li>Fruit</li>
+    <li>brood</li>
+</ul>
+
+<a href="https://www.thuisarts.nl/gezonde-levensstijl/ik-wil-gezond-eten">
+  <img src="https://groentegroente.nl/wp-content/uploads/Gezond-eten-1-Sh-698.jpg" alt="gezond eten"; width="40%">
+</a>
+<h4 style="color:grey;"> linkje als je op de afbeelding klikt </h4>
+<br>
+
+<h4 style="color:Tomato;">Voorbeelden van ongezond eten:</h4>
+<ul style="background-color:Tomato;">
+	<li>Chocolade</li>
+    <li>Ijs</li>
+    <li>Snoep</li>
+</ul>
+
+<a href="https://mens-en-gezondheid.infonu.nl/gezonde-voeding/57760-ongezond-eten-en-drinken-suiker-rood-vlees-en-witte-rijst.html">
+<img src="https://www.healthywanderlust.nl/wp-content/uploads/2019/01/Aankomen-na-1-dag-ongezond-eten-1-800x411.jpg" alt="gezond eten"; width="40%">
+</a>
+<h4 style="color:grey;"> linkje als je op de afbeelding klikt </h4>
+
+<table style="width:100%">
+  <tr>
+    <th>eten</th>
+    <th>Gram</th> 
+    <th>Kcal</th>
+  </tr>
+  <tr>
+    <td>Appel</td>
+    <td>135</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>Chocolade reep</td>
+    <td>75</td>
+    <td>421</td>
+  </tr>
+  <tr>
+    <td>Brocoli</td>
+    <td>50</td>
+    <td>14</td>
+  </tr>
+</table>
+
+</body>
+</html>
